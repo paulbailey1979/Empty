@@ -1,0 +1,8 @@
+---
+- name: Test Playbook
+  hosts: all
+ 
+  tasks:
+ 
+  - name: Test Playbook
+    shell: echo "Testing 1, 2, 3"
